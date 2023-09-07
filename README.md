@@ -7,6 +7,7 @@ See github issues [1](https://github.com/raspberrypi/pico-feedback/issues/350), 
 
 ## Install Toolchain
 `brew install cmake`
+
 `brew install --cask gcc-arm-embedded`
 This would install an older version of Arm GCC v12.3.1 but contains all the toolchains and libraries necessary to compile and build. 
  
